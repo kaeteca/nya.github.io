@@ -709,7 +709,7 @@ function setupMusic() {
 
 
             audio.volume =
-                0.2;
+                0.1;
 
 
             audio.play()
